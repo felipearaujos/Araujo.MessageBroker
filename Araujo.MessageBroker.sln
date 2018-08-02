@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Araujo.MessageBroker.Publisher.API", "Araujo.MessageBroker.API\Araujo.MessageBroker.Publisher.API.csproj", "{CDDF7B93-34B4-4BA7-AFB4-71FC6697BEA2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Araujo.MessageBroker.Publisher.Service", "Araujo.MessageBroker.Publisher.Service\Araujo.MessageBroker.Publisher.Service.csproj", "{DDC5CC07-D76A-4BA6-9208-52AE4F31BBF5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Publisher", "Publisher", "{CF6C90ED-3D42-4EC9-AE4A-1ECC28DCA6A0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Consumer", "Consumer", "{DA4BB7ED-D210-4240-83C9-4316F197B7F8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Araujo.MessageBroker.Rabbit", "Araujo.MessageBroker.Rabbit\Araujo.MessageBroker.Rabbit.csproj", "{16455712-BF0C-4CFF-AC30-4A3A37D4A005}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Araujo.MessageBroker.Consumer.API", "WAraujo.MessageBroker.Consumer.API\Araujo.MessageBroker.Consumer.API.csproj", "{759FF419-68EB-4175-A418-D458DDBB5108}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Araujo.MessageBroker.Consumer.Service", "Araujo.MessageBroker.Consumer.Service\Araujo.MessageBroker.Consumer.Service.csproj", "{5D78E748-FA8D-40F6-99DE-AAD9E22A01E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDDF7B93-34B4-4BA7-AFB4-71FC6697BEA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDDF7B93-34B4-4BA7-AFB4-71FC6697BEA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDDF7B93-34B4-4BA7-AFB4-71FC6697BEA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDDF7B93-34B4-4BA7-AFB4-71FC6697BEA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDC5CC07-D76A-4BA6-9208-52AE4F31BBF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDC5CC07-D76A-4BA6-9208-52AE4F31BBF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDC5CC07-D76A-4BA6-9208-52AE4F31BBF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDC5CC07-D76A-4BA6-9208-52AE4F31BBF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16455712-BF0C-4CFF-AC30-4A3A37D4A005}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16455712-BF0C-4CFF-AC30-4A3A37D4A005}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16455712-BF0C-4CFF-AC30-4A3A37D4A005}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16455712-BF0C-4CFF-AC30-4A3A37D4A005}.Release|Any CPU.Build.0 = Release|Any CPU
+		{759FF419-68EB-4175-A418-D458DDBB5108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{759FF419-68EB-4175-A418-D458DDBB5108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{759FF419-68EB-4175-A418-D458DDBB5108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{759FF419-68EB-4175-A418-D458DDBB5108}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D78E748-FA8D-40F6-99DE-AAD9E22A01E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D78E748-FA8D-40F6-99DE-AAD9E22A01E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D78E748-FA8D-40F6-99DE-AAD9E22A01E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D78E748-FA8D-40F6-99DE-AAD9E22A01E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CDDF7B93-34B4-4BA7-AFB4-71FC6697BEA2} = {CF6C90ED-3D42-4EC9-AE4A-1ECC28DCA6A0}
+		{DDC5CC07-D76A-4BA6-9208-52AE4F31BBF5} = {CF6C90ED-3D42-4EC9-AE4A-1ECC28DCA6A0}
+		{759FF419-68EB-4175-A418-D458DDBB5108} = {DA4BB7ED-D210-4240-83C9-4316F197B7F8}
+		{5D78E748-FA8D-40F6-99DE-AAD9E22A01E5} = {DA4BB7ED-D210-4240-83C9-4316F197B7F8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB833E61-458B-45F4-9163-84512DC45697}
+	EndGlobalSection
+EndGlobal

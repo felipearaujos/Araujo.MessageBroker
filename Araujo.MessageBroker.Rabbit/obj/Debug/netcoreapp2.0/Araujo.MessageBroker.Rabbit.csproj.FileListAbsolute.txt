@@ -1,0 +1,12 @@
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.Rabbit\bin\Debug\netcoreapp2.0\Araujo.MessageBroker.Rabbit.deps.json
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.Rabbit\bin\Debug\netcoreapp2.0\Araujo.MessageBroker.Rabbit.dll
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.Rabbit\obj\Debug\netcoreapp2.0\Araujo.MessageBroker.Rabbit.csprojResolveAssemblyReference.cache
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.Rabbit\obj\Debug\netcoreapp2.0\Araujo.MessageBroker.Rabbit.csproj.CoreCompileInputs.cache
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.Rabbit\obj\Debug\netcoreapp2.0\Araujo.MessageBroker.Rabbit.AssemblyInfoInputs.cache
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.Rabbit\obj\Debug\netcoreapp2.0\Araujo.MessageBroker.Rabbit.AssemblyInfo.cs
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.Rabbit\bin\Debug\netcoreapp2.0\Araujo.MessageBroker.Rabbit.pdb
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.Rabbit\obj\Debug\netcoreapp2.0\Araujo.MessageBroker.Rabbit.dll
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.Rabbit\obj\Debug\netcoreapp2.0\Araujo.MessageBroker.Rabbit.pdb
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.Rabbit\bin\Debug\netcoreapp2.0\Newtonsoft.Json.dll
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.Rabbit\bin\Debug\netcoreapp2.0\Newtonsoft.Json.xml
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.Rabbit\obj\Debug\netcoreapp2.0\Araujo.MessageBroker.Rabbit.csproj.CopyComplete

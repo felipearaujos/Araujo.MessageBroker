@@ -1,0 +1,14 @@
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.Consumer.Service\bin\Debug\netcoreapp2.0\Araujo.MessageBroker.Consumer.Service.deps.json
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.Consumer.Service\bin\Debug\netcoreapp2.0\Araujo.MessageBroker.Consumer.Service.dll
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.Consumer.Service\bin\Debug\netcoreapp2.0\Araujo.MessageBroker.Consumer.Service.pdb
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.Consumer.Service\obj\Debug\netcoreapp2.0\Araujo.MessageBroker.Consumer.Service.csproj.CoreCompileInputs.cache
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.Consumer.Service\obj\Debug\netcoreapp2.0\Araujo.MessageBroker.Consumer.Service.AssemblyInfoInputs.cache
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.Consumer.Service\obj\Debug\netcoreapp2.0\Araujo.MessageBroker.Consumer.Service.AssemblyInfo.cs
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.Consumer.Service\obj\Debug\netcoreapp2.0\Araujo.MessageBroker.Consumer.Service.dll
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.Consumer.Service\obj\Debug\netcoreapp2.0\Araujo.MessageBroker.Consumer.Service.pdb
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.Consumer.Service\obj\Debug\netcoreapp2.0\Araujo.MessageBroker.Consumer.Service.csprojResolveAssemblyReference.cache
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.Consumer.Service\bin\Debug\netcoreapp2.0\Araujo.MessageBroker.Rabbit.dll
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.Consumer.Service\bin\Debug\netcoreapp2.0\Newtonsoft.Json.dll
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.Consumer.Service\bin\Debug\netcoreapp2.0\Araujo.MessageBroker.Rabbit.pdb
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.Consumer.Service\bin\Debug\netcoreapp2.0\Newtonsoft.Json.xml
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.Consumer.Service\obj\Debug\netcoreapp2.0\Araujo.MessageBroker.Consumer.Service.csproj.CopyComplete

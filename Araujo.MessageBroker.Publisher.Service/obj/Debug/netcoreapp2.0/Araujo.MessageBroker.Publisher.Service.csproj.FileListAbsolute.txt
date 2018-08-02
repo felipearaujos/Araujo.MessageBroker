@@ -1,0 +1,12 @@
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.Publisher.Service\bin\Debug\netcoreapp2.0\Araujo.MessageBroker.Publisher.Service.deps.json
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.Publisher.Service\bin\Debug\netcoreapp2.0\Araujo.MessageBroker.Publisher.Service.dll
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.Publisher.Service\bin\Debug\netcoreapp2.0\Araujo.MessageBroker.Publisher.Service.pdb
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.Publisher.Service\obj\Debug\netcoreapp2.0\Araujo.MessageBroker.Publisher.Service.csprojResolveAssemblyReference.cache
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.Publisher.Service\obj\Debug\netcoreapp2.0\Araujo.MessageBroker.Publisher.Service.csproj.CoreCompileInputs.cache
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.Publisher.Service\obj\Debug\netcoreapp2.0\Araujo.MessageBroker.Publisher.Service.AssemblyInfoInputs.cache
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.Publisher.Service\obj\Debug\netcoreapp2.0\Araujo.MessageBroker.Publisher.Service.AssemblyInfo.cs
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.Publisher.Service\obj\Debug\netcoreapp2.0\Araujo.MessageBroker.Publisher.Service.csproj.CopyComplete
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.Publisher.Service\obj\Debug\netcoreapp2.0\Araujo.MessageBroker.Publisher.Service.dll
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.Publisher.Service\obj\Debug\netcoreapp2.0\Araujo.MessageBroker.Publisher.Service.pdb
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.Publisher.Service\bin\Debug\netcoreapp2.0\Araujo.MessageBroker.Rabbit.dll
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.Publisher.Service\bin\Debug\netcoreapp2.0\Araujo.MessageBroker.Rabbit.pdb

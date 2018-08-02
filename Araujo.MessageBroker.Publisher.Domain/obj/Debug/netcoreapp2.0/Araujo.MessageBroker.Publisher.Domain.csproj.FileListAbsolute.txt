@@ -1,0 +1,9 @@
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.Publisher.Domain\bin\Debug\netcoreapp2.0\Araujo.MessageBroker.Publisher.Domain.deps.json
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.Publisher.Domain\bin\Debug\netcoreapp2.0\Araujo.MessageBroker.Publisher.Domain.dll
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.Publisher.Domain\bin\Debug\netcoreapp2.0\Araujo.MessageBroker.Publisher.Domain.pdb
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.Publisher.Domain\obj\Debug\netcoreapp2.0\Araujo.MessageBroker.Publisher.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.Publisher.Domain\obj\Debug\netcoreapp2.0\Araujo.MessageBroker.Publisher.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.Publisher.Domain\obj\Debug\netcoreapp2.0\Araujo.MessageBroker.Publisher.Domain.AssemblyInfoInputs.cache
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.Publisher.Domain\obj\Debug\netcoreapp2.0\Araujo.MessageBroker.Publisher.Domain.AssemblyInfo.cs
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.Publisher.Domain\obj\Debug\netcoreapp2.0\Araujo.MessageBroker.Publisher.Domain.dll
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.Publisher.Domain\obj\Debug\netcoreapp2.0\Araujo.MessageBroker.Publisher.Domain.pdb

@@ -1,0 +1,16 @@
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.API\bin\Debug\netcoreapp2.0\Araujo.MessageBroker.Publisher.API.deps.json
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.API\bin\Debug\netcoreapp2.0\Araujo.MessageBroker.Publisher.API.runtimeconfig.json
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.API\bin\Debug\netcoreapp2.0\Araujo.MessageBroker.Publisher.API.runtimeconfig.dev.json
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.API\bin\Debug\netcoreapp2.0\Araujo.MessageBroker.Publisher.API.dll
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.API\bin\Debug\netcoreapp2.0\Araujo.MessageBroker.Publisher.API.pdb
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.API\bin\Debug\netcoreapp2.0\Araujo.MessageBroker.Publisher.Service.dll
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.API\bin\Debug\netcoreapp2.0\Araujo.MessageBroker.Publisher.Service.pdb
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.API\obj\Debug\netcoreapp2.0\Araujo.MessageBroker.Publisher.API.csprojResolveAssemblyReference.cache
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.API\obj\Debug\netcoreapp2.0\Araujo.MessageBroker.Publisher.API.csproj.CoreCompileInputs.cache
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.API\obj\Debug\netcoreapp2.0\Araujo.MessageBroker.Publisher.API.AssemblyInfoInputs.cache
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.API\obj\Debug\netcoreapp2.0\Araujo.MessageBroker.Publisher.API.AssemblyInfo.cs
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.API\obj\Debug\netcoreapp2.0\Araujo.MessageBroker.Publisher.API.csproj.CopyComplete
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.API\obj\Debug\netcoreapp2.0\Araujo.MessageBroker.Publisher.API.dll
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.API\obj\Debug\netcoreapp2.0\Araujo.MessageBroker.Publisher.API.pdb
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.API\bin\Debug\netcoreapp2.0\Araujo.MessageBroker.Rabbit.dll
+C:\Users\Araujo\Documents\VSProjects\Araujo.MessageBroker\Araujo.MessageBroker.API\bin\Debug\netcoreapp2.0\Araujo.MessageBroker.Rabbit.pdb
